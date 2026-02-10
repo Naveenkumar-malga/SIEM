@@ -2,7 +2,7 @@
 
 ## Objective
 
-SIEM is a heart beat for the SOC. we have many siem tools but they all are same. Important thing is for methodology.
+SIEM is a heart beat for the SOC. we have many siem tools but they all are same. Important thing is for methodology. Still learning, improving my skills across SOC by 1% daily.
 
 ### Skills Learned
 
